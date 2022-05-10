@@ -1,9 +1,9 @@
 # huSync - A computational approach and system for computing dyadic synchronization in small groups
 
 ## Table of contents
-* [General Information](#general-info)
-* [Technology](#technologies)
-* [Methodlogy and Setup](#setup)
+* [General Information](#general-information)
+* [Technology](#technology)
+* [Methodlogy and Setup](#methodology-and-setup)
 
 ## General info
 Use case for the paper submission in IEEE Access:
