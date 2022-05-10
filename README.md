@@ -42,3 +42,7 @@ Sanket Rajeev Sabharwal (sabharwal@edu.unige.it)
 
 ##### Note for researchers:
 
+If this research helps you please use the following citation:
+```
+To be entered after acceptance
+```
