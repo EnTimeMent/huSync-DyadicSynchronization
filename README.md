@@ -1,5 +1,7 @@
 # huSync - A computational approach and system for computing dyadic synchronization in small groups
-## Use case for the paper submission in IEEE Access: Video sequences of a professional musical ensemble
+
+Use case for the paper submission in IEEE Access:
+_Video sequences of a professional musical ensemble_
 
 This repository contains the code that was developed in order to compute Dyadic Synchronization between participants in small groups.
 We test our system on video sequences of co-performers in a small group of musicians.
