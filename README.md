@@ -37,10 +37,10 @@ After this, we utilize the file src/Module_DyadicSynchronization.ipynb to comput
 We perform a statistical analysis using a two-way ANOVA measure, and utilize [Jamovi](https://www.jamovi.org/) to conduct these tests.
 
 
-##### Code maintained by
+### Code maintained by
 Sanket Rajeev Sabharwal (sabharwal@edu.unige.it)
 
-##### Note for researchers:
+### Note for researchers:
 
 If this research helps you please use the following citation:
 ```
