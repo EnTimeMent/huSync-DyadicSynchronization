@@ -28,9 +28,13 @@ Project is created with:
 Our code follows the model as described in the paper, and below is an instance.
 ![huSync Schema](./media/huSync_model.jpg)
 
-As observed, block B (Feature extraction) requires data from a multi-person pose estimation algorithm. For our use case, we utilize [AlphaPose v0.4.0](https://github.com/MVIG-SJTU/AlphaPose)
+As observed, block B (Feature extraction) requires data from a multi-person pose estimation algorithm. For our use case, we utilize [AlphaPose v0.4.0](https://github.com/MVIG-SJTU/AlphaPose). Once the .json file is available as an output, we utilize the file src/Module_DataExtraction.ipynb to create csv files of the data with trajectory information (x,y) of all participants separated in columns.
 
+After this, we utilize the file src/Module_DyadicSynchronization.ipynb to compute the dyadic synchronization between all possible pairs.
 
+## Analysis
+
+We perform a statistical analysis using a two-way ANOVA measure, and utilize [Jamovi](https://www.jamovi.org/) to conduct these tests.
 
 
 ##### Code maintained by
