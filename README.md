@@ -4,6 +4,8 @@
 * [General Information](#general-information)
 * [Technology](#technology)
 * [Methodlogy and Setup](#methodology-and-setup)
+* [Analysis](#analysis)
+* [Additional Information](#additional-information)
 
 ## General info
 Use case for the paper submission in IEEE Access:
@@ -36,7 +38,7 @@ After this, we utilize the file src/Module_DyadicSynchronization.ipynb to comput
 
 We perform a statistical analysis using a two-way ANOVA measure, and utilize [Jamovi](https://www.jamovi.org/) to conduct these tests.
 
-
+## Additional Information
 ### Code maintained by
 Sanket Rajeev Sabharwal (sabharwal@edu.unige.it)
 
