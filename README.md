@@ -1,9 +1,9 @@
 # huSync - A computational approach and system for computing dyadic synchronization in small groups
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [General Information](#general-info)
+* [Technology](#technologies)
+* [Methodlogy and Setup](#setup)
 
 ## General info
 Use case for the paper submission in IEEE Access:
@@ -17,7 +17,7 @@ We test our system on video sequences of co-performers in a small group of music
 Both the files have been shared as a jupyter notebook since this should make it easier to execute the code with more control.
 The added control helps perform experiments carefully, particularly since the data from pose estimation algorithms can be noisy and sometimes requires manual intervention.
 	
-## Technologies
+## Technology
 Project is created with:
 * Python
 * IDE: Jupyter Notebook
