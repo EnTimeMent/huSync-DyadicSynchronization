@@ -45,6 +45,20 @@ Sanket Rajeev Sabharwal (sabharwal@edu.unige.it)
 ### Note for researchers:
 
 If this research helps you please use the following citation:
+#### Bibtex
 ```
-To be entered after acceptance
+@ARTICLE{9869836,
+  author={Sabharwal, Sanket Rajeev and Varlet, Manuel and Breaden, Matthew and Volpe, Gualtiero and Camurri, Antonio and Keller, Peter E.},
+  journal={IEEE Access}, 
+  title={huSync - A Model and System for the Measure of Synchronization in Small Groups: A Case Study on Musical Joint Action}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={92357-92372},
+  doi={10.1109/ACCESS.2022.3202959}}
+```
+
+#### Plain Text
+```
+S. R. Sabharwal, M. Varlet, M. Breaden, G. Volpe, A. Camurri and P. E. Keller, "huSync - A Model and System for the Measure of Synchronization in Small Groups: A Case Study on Musical Joint Action," in IEEE Access, vol. 10, pp. 92357-92372, 2022, doi: 10.1109/ACCESS.2022.3202959.
 ```
